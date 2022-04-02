@@ -9,8 +9,12 @@ Knowledge acquired by crowds tend to be noisy, redundancy and meaningless especi
 Therefore, we refined ConceptNet to reduce its error rate.  
 In the mean time, we increased the quality of ConceptNet. The quality here refers to correctness, coverage and number of concepts.  
 
-# Data
-
+### Brief explanations to files
+- ConceptNet_data_cleaning: 
+- ConceptNet_data_cleaning_each_relation: 
+- ConceptNet_data_cleaning_result: 
+- ConceptNet_relations_detailed_information: 
+- ConceptNet_relations_explanations_and_examples: 
 
 # Citation
 If you use this version of Chinese ConceptNet in research or software, please cite this paper:
