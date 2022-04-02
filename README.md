@@ -14,8 +14,8 @@ In the mean time, we increased the quality of ConceptNet. The quality here refer
 
 # Citation
 If you use this version of Chinese ConceptNet in research or software, please cite this paper:
-> Ying-Ren Chen (2021). Generate coherent text using semantic embedding, common sense templates and Monte-Carlo tree search methods (Master's thesis, National Tsing Hua University, Hsinchu, Taiwan).  
-> Retrieved from https://etd.lib.nctu.edu.tw/cgi-bin/gs32/hugsweb.cgi?o=dnthucdr&s=id=%22G021040625840%22.&searchmode=basic
+> Ying-Ren Chen (2021). [Generate coherent text using semantic embedding, common sense templates and Monte-Carlo tree search methods](https://etd.lib.nctu.edu.tw/cgi-bin/gs32/hugsweb.cgi?o=dnthucdr&s=id=%22G021040625840%22.&searchmode=basic) (Master's thesis, National Tsing Hua University, Hsinchu, Taiwan).  
+
 The data cleaning part of Chinese ConceptNet is in Chapter 3.1, 4.1 and Appendix A, B  
 
 # License
