@@ -1,7 +1,11 @@
-# Chinese_ConceptNet
-Refined and expanded version of Chinese ConceptNet
+# Overview
+This dataset is a refined and expanded version of Chinese ConceptNet.  
+The original ConceptNet is in [commonsense/conceptnet5](https://github.com/commonsense/conceptnet5/wiki)
 
-The original version of ConceptNet is in [commonsense/conceptnet5](https://github.com/commonsense/conceptnet5/wiki)
+# Citation
+If you use this version of Chinese ConceptNet in research or software, please cite this paper:
+> Ying-Ren Chen (2021). Generate coherent text using semantic embedding, common sense templates and Monte-Carlo tree search methods (Master's thesis, National Tsing Hua University, Hsinchu, Taiwan).  
+> Retrieved from https://etd.lib.nctu.edu.tw/cgi-bin/gs32/hugsweb.cgi?o=dnthucdr&s=id=%22G021040625840%22.&searchmode=basic
 
 # License
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
