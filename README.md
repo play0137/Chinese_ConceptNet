@@ -1,7 +1,7 @@
 # Chinese_ConceptNet
 Refined and expanded version of Chinese ConceptNet
 
-The original version of ConceptNet is in [commonsense/conceptnet5](https://github.com/commonsense/conceptnet5/wiki/Downloads)
+The original version of ConceptNet is in [commonsense/conceptnet5](https://github.com/commonsense/conceptnet5/wiki)
 
 # License
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
