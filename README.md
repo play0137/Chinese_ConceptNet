@@ -2,7 +2,6 @@
 This dataset is a refined and expanded version of Chinese ConceptNet.  
 (the original ConceptNet dataset is in [commonsense/conceptnet5](https://github.com/commonsense/conceptnet5/wiki))
 
-### ConceptNet
 ConceptNet originated from Open Mind Common Sense(OMCS) Project and developed by MIT Media Laboratory.  
 It collected commonsense knowledge from voluntary web users all around the world (crowd-sourcing).  
 It contains a variety of domains in real-world and can be applied in different tasks, such as analogy, commonsense reasoning and natural language understanding. 
