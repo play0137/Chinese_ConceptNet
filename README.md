@@ -10,17 +10,19 @@ Therefore, we refined ConceptNet to reduce its error rate.
 In the mean time, we increased the quality of ConceptNet. The quality here refers to correctness, coverage and number of concepts.  
 
 ### Brief explanations to files
-- ConceptNet_data_cleaning: 
-- ConceptNet_data_cleaning_each_relation: 
-- ConceptNet_data_cleaning_result: 
-- ConceptNet_relations_detailed_information: 
-- ConceptNet_relations_explanations_and_examples: 
+- data_cleaning: why and how we have to modify the data
+- data_cleaning_relations: what we modified the data for each relation
+- relations_detailed_information: describe the concept types in 'Start' and 'End' field and their corresponding 'SurfaceText'
+- relations_explanations_and_examples: explain the meaning of each relation and give an simple example 
 
 # Citation
 If you use this version of Chinese ConceptNet in research or software, please cite this paper:
 > Ying-Ren Chen (2021). [Generate coherent text using semantic embedding, common sense templates and Monte-Carlo tree search methods](https://etd.lib.nctu.edu.tw/cgi-bin/gs32/hugsweb.cgi?o=dnthucdr&s=id=%22G021040625840%22.&searchmode=basic) (Master's thesis, National Tsing Hua University, Hsinchu, Taiwan).  
 
 The data cleaning part of Chinese ConceptNet is in Chapter 3.1, 4.1 and Appendix A, B  
+
+And this paper:
+> Robyn Speer, Joshua Chin, and Catherine Havasi. 2017. "ConceptNet 5.5: An Open Multilingual Graph of General Knowledge." In proceedings of AAAI 31.
 
 # License
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
