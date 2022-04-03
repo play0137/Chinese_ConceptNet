@@ -16,9 +16,18 @@ In the mean time, we increased the quality of ConceptNet. The quality here refer
 - relations_explanations_and_examples: explain the meaning of each relation and give an simple example  
 - The number of assertions in ConceptNet.csv and ConceptNet_expansion.csv are 292,894 and 1,136,673
 
-# Citation
+# References
 If you use this version of Chinese ConceptNet in research or software, please cite this paper:
 > Ying-Ren Chen (2021). [Generate coherent text using semantic embedding, common sense templates and Monte-Carlo tree search methods](https://etd.lib.nctu.edu.tw/cgi-bin/gs32/hugsweb.cgi?o=dnthucdr&s=id=%22G021040625840%22.&searchmode=basic) (Master's thesis, National Tsing Hua University, Hsinchu, Taiwan).  
+
+BibTeX:  
+> @mastersthesis{Chen:2021:generate_coherent_text,  
+&nbsp;&nbsp;&nbsp;&nbsp; author = "Ying-Ren Chen,  
+&nbsp;&nbsp;&nbsp;&nbsp; title = "Generate coherent text using semantic embedding, common sense templates and Monte-Carlo tree search methods",  
+&nbsp;&nbsp;&nbsp;&nbsp; school = "National Tsing Hua University",  
+&nbsp;&nbsp;&nbsp;&nbsp; pages = 136,  
+&nbsp;&nbsp;&nbsp;&nbsp; year = 2021  
+}  
 
 The data cleaning part of Chinese ConceptNet is in Chapter 3.1, 4.1 and Appendix A, B  
 
