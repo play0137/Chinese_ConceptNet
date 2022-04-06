@@ -1,6 +1,7 @@
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 # Overview
+
 This dataset is a refined and expanded version of Chinese ConceptNet.  
 (the original ConceptNet dataset is in [commonsense/conceptnet5](https://github.com/commonsense/conceptnet5/wiki))
 
@@ -27,7 +28,8 @@ ID    |Start|End|Relation       |SurfaceText              |Weight
 154481|出門 |上學|MotivatedByGoal|[[出門]] 是為了 [[上學]]。|1.0
 
 # References
-If you use this version of Chinese ConceptNet in research or software, please cite this paper:
+
+If you use this version of Chinese ConceptNet in your works, please cite this paper:
 > Ying-Ren Chen (2021). [Generate coherent text using semantic embedding, common sense templates and Monte-Carlo tree search methods](https://etd.lib.nctu.edu.tw/cgi-bin/gs32/hugsweb.cgi?o=dnthucdr&s=id=%22G021040625840%22.&searchmode=basic) (Master's thesis, National Tsing Hua University, Hsinchu, Taiwan).  
 
 BibTeX:  
@@ -45,6 +47,7 @@ And this paper:
 > Robyn Speer, Joshua Chin, and Catherine Havasi. 2017. "ConceptNet 5.5: An Open Multilingual Graph of General Knowledge." In proceedings of AAAI 31.
 
 # License
+
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
