@@ -2,6 +2,10 @@
 
 # Overview
 
+<p align="center">
+  <img width="300" height="300" src="./semantic_network.png">
+</p>
+
 This dataset is a refined and expanded version of Chinese ConceptNet.  
 (the original ConceptNet dataset is in [commonsense/conceptnet5](https://github.com/commonsense/conceptnet5/wiki))
 
