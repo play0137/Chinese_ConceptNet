@@ -16,7 +16,7 @@ Knowledge acquired by crowds tend to be noisy, redundancy and meaningless especi
 Therefore, we refined ConceptNet to reduce its error rate.  
 In the mean time, we increased the quality of ConceptNet. The quality here refers to correctness, coverage and number of concepts.  
 
-### Brief explanations to files
+### Brief explanations to reports
 - data_cleaning: why and how we have to modify the data
 - data_cleaning_relations: modifications of each relation
 - relations_detailed_information: describe the concept types in 'Start' and 'End' field and their corresponding 'SurfaceText'
