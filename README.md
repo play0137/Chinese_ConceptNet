@@ -16,7 +16,7 @@ Knowledge acquired by crowds tend to be noisy, redundancy and meaningless especi
 Therefore, we refined ConceptNet to reduce its error rate.  
 In the mean time, we increased the quality of ConceptNet. The quality here refers to correctness, coverage and number of concepts.  
 
-Check [reports](https://github.com/play0137/Chinese_ConceptNet/tree/master/reports) for more information.
+Please check the [reports](https://github.com/play0137/Chinese_ConceptNet/tree/master/reports) for more information.
 
 ### Assertion examples
 ID    |Start|End|Relation       |SurfaceText              |Weight  
