@@ -40,9 +40,9 @@ BibTeX:
 &nbsp;&nbsp;&nbsp;&nbsp; year = 2021  
 }  
 
-The data cleaning part of Chinese ConceptNet is in Chapter 3.1, 4.1 and Appendix A, B  
+(the data cleaning part of Chinese ConceptNet is in Chapter 3.1, 4.1 and Appendix A, B)  
 
-And this paper:
+And cite ConceptNet paper too:
 > Robyn Speer, Joshua Chin, and Catherine Havasi. 2017. "ConceptNet 5.5: An Open Multilingual Graph of General Knowledge." In proceedings of AAAI 31.
 
 # License
