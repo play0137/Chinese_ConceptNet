@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="750" height="310" src="./data_cleaning_result.png">
+</p>
+
 The table shows the comparison of modified/expanded version and original one.
 Although the coverage of original ConceptNet is wider than the modified one, it contains numerous errors.
 We refine the data, expand by different kinds of relations (mainly “Synonym”) and ensure the quality of ConceptNet.
