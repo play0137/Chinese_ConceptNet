@@ -11,7 +11,7 @@
   <img width="750" height="310" src="./data_cleaning_result.png">
 </p>
 
-Although the coverage of original ConceptNet is wider than the modified one, it contain numerous errors.  
+Although the coverage of original ConceptNet is wider than the modified one, it contains numerous errors.  
 We refine the data, expand by different kinds of relations (mainly “Synonym”) and ensure the quality of ConceptNet.  
 Expanded ConceptNet is 3.21 times of the size of the original one.  
 The actual number of each statistic in original ConceptNet should be smaller, because numerous incorrect concepts are included.  
